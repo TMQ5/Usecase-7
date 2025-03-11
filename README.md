@@ -52,3 +52,10 @@ Through **Exploratory Data Analysis (EDA) and Machine Learning**, this project p
 ## 📌 Storytelling  
 To explore insights visually, visit our **Streamlit Storytelling Dashboard**:  
 👉 **[View the Dashboard Here](https://usecase-7-igmjq6zrxgwqhych9gxjf8.streamlit.app/)**  
+
+
+## 🚀 Model Deployment 
+
+We deployed the supervised machine learning regression algorithm,  Random Forest model on Render web server using FastAPI.
+
+👉 **[View the Predication Model Here](https://usecase-7-vvhu.onrender.com/docs#/default/predict_predict_post)**  
