@@ -1,5 +1,8 @@
+fastapi[all]
+uvicorn
+pydantic
+joblib
 pandas
 numpy
-streamlit
-matplotlib 
-seaborn
+scikit-learn
+requests
